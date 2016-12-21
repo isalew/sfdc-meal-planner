@@ -1,0 +1,4 @@
+*.sublime-project
+config/*
+debug/*
+resource-bundles/*
